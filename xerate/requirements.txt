@@ -1,0 +1,5 @@
+requests
+google-cloud-secret-manager
+google-cloud-storage
+google-api-core
+
